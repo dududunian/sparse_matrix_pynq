@@ -1,0 +1,1066 @@
+[
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\board\\build_zcu104.tcl",
+    "submission": "src/project/board/build_zcu104.tcl",
+    "copied_source_sha256": "c7e95a5b28ef9bca19bea91af9eca69fc77d238008dbc7c4eb82ecac0c73fcf4",
+    "included": true,
+    "final_sha256": "c7e95a5b28ef9bca19bea91af9eca69fc77d238008dbc7c4eb82ecac0c73fcf4"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\board\\spmm_axi_ctrl.sv",
+    "submission": "src/project/board/spmm_axi_ctrl.sv",
+    "copied_source_sha256": "3d908573f14d1ccef666e89f1f3353b144a031173800a4b8e0e67503e1621583",
+    "included": true,
+    "final_sha256": "3d908573f14d1ccef666e89f1f3353b144a031173800a4b8e0e67503e1621583"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\board\\spmm_zcu104.v",
+    "submission": "src/project/board/spmm_zcu104.v",
+    "copied_source_sha256": "be6f1c3888400d2d4db609e7e199b78b8ebaf02d4e35cb875821bb01ebc3cdf0",
+    "included": true,
+    "final_sha256": "be6f1c3888400d2d4db609e7e199b78b8ebaf02d4e35cb875821bb01ebc3cdf0"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\board\\validate_runtime_clock.tcl",
+    "submission": "src/project/board/validate_runtime_clock.tcl",
+    "copied_source_sha256": "9f7a5290c809a34145c8ad5a3023b13cc0beef04a7bee6c9d1932efaa654f8de",
+    "included": true,
+    "final_sha256": "9f7a5290c809a34145c8ad5a3023b13cc0beef04a7bee6c9d1932efaa654f8de"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\data\\synth_random64\\a_compact_vec.hex",
+    "submission": "src/project/data/synth_random64/a_compact_vec.hex",
+    "copied_source_sha256": "6b815815dffba27a05c96626c4912b14d45ad8de1fdc5e3afd9682ae1403cbf5",
+    "included": true,
+    "final_sha256": "6b815815dffba27a05c96626c4912b14d45ad8de1fdc5e3afd9682ae1403cbf5"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\data\\synth_random64\\a_row_order.hex",
+    "submission": "src/project/data/synth_random64/a_row_order.hex",
+    "copied_source_sha256": "66bf239908c1d9940dec6b838bf01b6ae88b139f6dda121b2e4d79d97b073211",
+    "included": true,
+    "final_sha256": "66bf239908c1d9940dec6b838bf01b6ae88b139f6dda121b2e4d79d97b073211"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\data\\synth_random64\\b_row_ptr.hex",
+    "submission": "src/project/data/synth_random64/b_row_ptr.hex",
+    "copied_source_sha256": "e56dd4b14b155df9e79453b2973b31df2f36ace59bb61b2becb1556eaa8c0165",
+    "included": true,
+    "final_sha256": "e56dd4b14b155df9e79453b2973b31df2f36ace59bb61b2becb1556eaa8c0165"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\data\\synth_random64\\b_val_pack.hex",
+    "submission": "src/project/data/synth_random64/b_val_pack.hex",
+    "copied_source_sha256": "2527564981f264b21ff4ac42e9417f79d4160b6f4f37974272f08c55b98fcc8e",
+    "included": true,
+    "final_sha256": "2527564981f264b21ff4ac42e9417f79d4160b6f4f37974272f08c55b98fcc8e"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\data\\synth_random64\\case.json",
+    "submission": "src/project/data/synth_random64/case.json",
+    "copied_source_sha256": "a849cb345e1648f3403926cc85e10d35ce38f49695bb43cbc4bd26a3442f11ac",
+    "included": true,
+    "final_sha256": "a849cb345e1648f3403926cc85e10d35ce38f49695bb43cbc4bd26a3442f11ac"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\data\\synth_random64\\golden_c.hex",
+    "submission": "src/project/data/synth_random64/golden_c.hex",
+    "copied_source_sha256": "18e99d36e04631d2a10b209a2882f019950147d64687fe2eab2d469cf258462a",
+    "included": true,
+    "final_sha256": "18e99d36e04631d2a10b209a2882f019950147d64687fe2eab2d469cf258462a"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\sim\\tb_nanshan_full.sv",
+    "submission": "src/project/sim/tb_sparse_matrix_full.sv",
+    "copied_source_sha256": "0349fd51f17f06c3694840099b1237a33d8327f9beefc16b00672f55c5e27b74",
+    "included": true,
+    "final_sha256": "c15aea840493b845dadb8b2e380f477a10b46b3d708da7edff05e434c25e628e"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\sim\\tb_nanshan_numeric.sv",
+    "submission": "src/project/sim/tb_sparse_matrix_numeric.sv",
+    "copied_source_sha256": "da5bdd0d92e583521372e2e1ffad023ed7c98140defd0ccdfff986609136debc",
+    "included": true,
+    "final_sha256": "c57286e81d8ab3465f204f111f5c6b548a35f0f72de2db952c0219ef31d5fe23"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\A_loader.sv",
+    "submission": "src/project/src/a_loader.sv",
+    "copied_source_sha256": "f87efb3d99f81d2be930895462a475037d5cc13da3f4158dc72a2c0cc8c8e4e3",
+    "included": true,
+    "final_sha256": "f87efb3d99f81d2be930895462a475037d5cc13da3f4158dc72a2c0cc8c8e4e3"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\A_row_rom.sv",
+    "submission": "src/project/src/a_row_rom.sv",
+    "copied_source_sha256": "bcc9febeabe891a1f2cea06dc09122c8c1dcd67c3c45f3914d3213da300b9225",
+    "included": true,
+    "final_sha256": "bcc9febeabe891a1f2cea06dc09122c8c1dcd67c3c45f3914d3213da300b9225"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\A_vec_rom.sv",
+    "submission": "src/project/src/a_vec_rom.sv",
+    "copied_source_sha256": "cc26d0d4b667de326d3117fb6f67451340ce426befafd0658ef69a393b4866a7",
+    "included": true,
+    "final_sha256": "cc26d0d4b667de326d3117fb6f67451340ce426befafd0658ef69a393b4866a7"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\B_loader.sv",
+    "submission": "src/project/src/b_loader.sv",
+    "copied_source_sha256": "8d0cb31518b77a3c59b759335c62b0f637931ef9eddc895eff100f2282b620af",
+    "included": true,
+    "final_sha256": "8d0cb31518b77a3c59b759335c62b0f637931ef9eddc895eff100f2282b620af"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\B_row_ptr_rom.sv",
+    "submission": "src/project/src/b_row_ptr_rom.sv",
+    "copied_source_sha256": "468b9fb3e102895531ea0e6706b9fe19bd95e0d15fda000f077ac5cc17c7cdd6",
+    "included": true,
+    "final_sha256": "468b9fb3e102895531ea0e6706b9fe19bd95e0d15fda000f077ac5cc17c7cdd6"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\B_val_rom.sv",
+    "submission": "src/project/src/b_val_rom.sv",
+    "copied_source_sha256": "de8b5f882e878ec332c8aedacfbe909dced7b7890e4980ca23fefe72c3b6e3e3",
+    "included": true,
+    "final_sha256": "de8b5f882e878ec332c8aedacfbe909dced7b7890e4980ca23fefe72c3b6e3e3"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\C_res_ram.sv",
+    "submission": "src/project/src/c_res_ram.sv",
+    "copied_source_sha256": "fb4a7415bef4eefc793cfaf02ea394f021a160eeb6a9c8094ff5214f60ed0113",
+    "included": true,
+    "final_sha256": "fb4a7415bef4eefc793cfaf02ea394f021a160eeb6a9c8094ff5214f60ed0113"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\fifo.sv",
+    "submission": "src/project/src/fifo.sv",
+    "copied_source_sha256": "62fb7940fc390fe943c282e769511539ff93b72e328fd318899ecdccd33ab06f",
+    "included": true,
+    "final_sha256": "62fb7940fc390fe943c282e769511539ff93b72e328fd318899ecdccd33ab06f"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\fp16_exec.sv",
+    "submission": "src/project/src/fp16_exec.sv",
+    "copied_source_sha256": "d0ca675946f0d2863cd86185d37d57d9de14510265133945872087b53716f15a",
+    "included": true,
+    "final_sha256": "d0ca675946f0d2863cd86185d37d57d9de14510265133945872087b53716f15a"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\inc\\spmm_loader_defs.svh",
+    "submission": "src/project/src/inc/spmm_loader_defs.svh",
+    "copied_source_sha256": "122dead349535f7e42918ed1c24903c8c8a421b1970a72309a94b61a5a76772d",
+    "included": true,
+    "final_sha256": "122dead349535f7e42918ed1c24903c8c8a421b1970a72309a94b61a5a76772d"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\pe_core.sv",
+    "submission": "src/project/src/pe_core.sv",
+    "copied_source_sha256": "43b560749f2164b5ba90b0970c328a8799775069368397307b59aeaec7a7802f",
+    "included": true,
+    "final_sha256": "43b560749f2164b5ba90b0970c328a8799775069368397307b59aeaec7a7802f"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\spmm_loader_defs.svh",
+    "submission": "src/project/src/spmm_loader_defs.svh",
+    "copied_source_sha256": "122dead349535f7e42918ed1c24903c8c8a421b1970a72309a94b61a5a76772d",
+    "included": true,
+    "final_sha256": "122dead349535f7e42918ed1c24903c8c8a421b1970a72309a94b61a5a76772d"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\spmm_wide_input_ram.sv",
+    "submission": "src/project/src/spmm_wide_input_ram.sv",
+    "copied_source_sha256": "ede0e269197f0db694a63ecabdc17df4c0297e01b78b43ce3762d4f4f8fd8162",
+    "included": true,
+    "final_sha256": "ede0e269197f0db694a63ecabdc17df4c0297e01b78b43ce3762d4f4f8fd8162"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\Store.sv",
+    "submission": "src/project/src/store.sv",
+    "copied_source_sha256": "497bd78cc98162d3d01367686f9cd4f74f702ef95ce7b8edf9a10d4b19236df5",
+    "included": true,
+    "final_sha256": "497bd78cc98162d3d01367686f9cd4f74f702ef95ce7b8edf9a10d4b19236df5"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\project\\src\\top.sv",
+    "submission": "src/project/src/top.sv",
+    "copied_source_sha256": "2c3dae157a6bc092674a9eb2c068dae96ae600b0a71e68aa02194c2f648105e1",
+    "included": true,
+    "final_sha256": "2c3dae157a6bc092674a9eb2c068dae96ae600b0a71e68aa02194c2f648105e1"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\add_a_empty_rows128.npz",
+    "submission": "data/original_cases/add_a_empty_rows128.npz",
+    "copied_source_sha256": "af81ab289c383dd9e4b8a6f48171ea138aa771f73feca94bbf13cf417fb4edfa",
+    "included": true,
+    "final_sha256": "af81ab289c383dd9e4b8a6f48171ea138aa771f73feca94bbf13cf417fb4edfa"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\add_b_empty_rows128.npz",
+    "submission": "data/original_cases/add_b_empty_rows128.npz",
+    "copied_source_sha256": "30efe3b0cd6ce346a559658259c18e4c1a2b77ca432e280d03c4f8b4a8b0ea34",
+    "included": true,
+    "final_sha256": "30efe3b0cd6ce346a559658259c18e4c1a2b77ca432e280d03c4f8b4a8b0ea34"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\add_b_only128.npz",
+    "submission": "data/original_cases/add_b_only128.npz",
+    "copied_source_sha256": "217cbca01bb47ca1ce75e4ed72e9322d8e0a383f74185f90f56bc56a9253f63d",
+    "included": true,
+    "final_sha256": "217cbca01bb47ca1ce75e4ed72e9322d8e0a383f74185f90f56bc56a9253f63d"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\add_disjoint_cols128.npz",
+    "submission": "data/original_cases/add_disjoint_cols128.npz",
+    "copied_source_sha256": "01b6aa2bff2b69d1c76c823b8256f3210059de8109d06c1651816efa034f301a",
+    "included": true,
+    "final_sha256": "01b6aa2bff2b69d1c76c823b8256f3210059de8109d06c1651816efa034f301a"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\add_M127_partial.npz",
+    "submission": "data/original_cases/add_m127_partial.npz",
+    "copied_source_sha256": "958cf233f35374ac5dc75d14ea1000a6287c5be9171e94837920fc10b984ce1b",
+    "included": true,
+    "final_sha256": "958cf233f35374ac5dc75d14ea1000a6287c5be9171e94837920fc10b984ce1b"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\add_M70_partial.npz",
+    "submission": "data/original_cases/add_m70_partial.npz",
+    "copied_source_sha256": "e22d4d1b87ac70bbdc3e536bfc37c83418a6cedb9aa2917557af4a3531b133ea",
+    "included": true,
+    "final_sha256": "e22d4d1b87ac70bbdc3e536bfc37c83418a6cedb9aa2917557af4a3531b133ea"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\add_same_cols128.npz",
+    "submission": "data/original_cases/add_same_cols128.npz",
+    "copied_source_sha256": "ae2cdadad7c2cb210ce3f004d9dc9a8b84a5e5064f855fe00643d792b41be49e",
+    "included": true,
+    "final_sha256": "ae2cdadad7c2cb210ce3f004d9dc9a8b84a5e5064f855fe00643d792b41be49e"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\add_small8_manual.npz",
+    "submission": "data/original_cases/add_small8_manual.npz",
+    "copied_source_sha256": "f2ea3787ac947944e92a0953ce9347b699e4613e6c47c666bd87b884bdb885b0",
+    "included": true,
+    "final_sha256": "f2ea3787ac947944e92a0953ce9347b699e4613e6c47c666bd87b884bdb885b0"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\manifest.json",
+    "submission": "data/original_cases/manifest.json",
+    "copied_source_sha256": "46c24170e68ea29cbdc792510f34266838bfdbc46e45f0164ed53c8a68760b87",
+    "included": true,
+    "final_sha256": "7cbbbbb71e406886e3c0c796fe863c754ffda269f339d44fbf1a7d2d828bebbc"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_a_diag128.npz",
+    "submission": "data/original_cases/spmm_a_diag128.npz",
+    "copied_source_sha256": "b46a268e51a4c18ca1d222f6e5eab7de06060992ec9b2560994b485f1480c85b",
+    "included": true,
+    "final_sha256": "b46a268e51a4c18ca1d222f6e5eab7de06060992ec9b2560994b485f1480c85b"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_b_diag128.npz",
+    "submission": "data/original_cases/spmm_b_diag128.npz",
+    "copied_source_sha256": "050d55daeaf3e5086b945155f695b1dc83b445c590139c91006aa754bb336d06",
+    "included": true,
+    "final_sha256": "050d55daeaf3e5086b945155f695b1dc83b445c590139c91006aa754bb336d06"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_brow_nnz_0_64_65_128_129.npz",
+    "submission": "data/original_cases/spmm_brow_nnz_0_64_65_128_129.npz",
+    "copied_source_sha256": "fcfd44b39c330543bbf37b0e50ae45ed49e92a0a362123bd1703c09abe4e5f88",
+    "included": true,
+    "final_sha256": "fcfd44b39c330543bbf37b0e50ae45ed49e92a0a362123bd1703c09abe4e5f88"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_diagonal128.npz",
+    "submission": "data/original_cases/spmm_diagonal128.npz",
+    "copied_source_sha256": "409ff2988fd65f47c9bf489cff72726a47a854c493b6c983b44407f7d42a9076",
+    "included": true,
+    "final_sha256": "409ff2988fd65f47c9bf489cff72726a47a854c493b6c983b44407f7d42a9076"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_empty_rows128.npz",
+    "submission": "data/original_cases/spmm_empty_rows128.npz",
+    "copied_source_sha256": "d3988fa3e377ada218e3d76238ac048fa828c18f0b8f69649ccbe2f3321fbdb1",
+    "included": true,
+    "final_sha256": "d3988fa3e377ada218e3d76238ac048fa828c18f0b8f69649ccbe2f3321fbdb1"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_identity64.npz",
+    "submission": "data/original_cases/spmm_identity64.npz",
+    "copied_source_sha256": "7d48dbf51f11d468381caf210a9ac4d818d0aba8f87511d185411a1eac3e24b8",
+    "included": true,
+    "final_sha256": "7d48dbf51f11d468381caf210a9ac4d818d0aba8f87511d185411a1eac3e24b8"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_K128_W4_multiblock.npz",
+    "submission": "data/original_cases/spmm_k128_w4_multiblock.npz",
+    "copied_source_sha256": "7ee589590219f3c2f88d87394acfe6ef1d88252b44d6667bc7a66108b43db6e4",
+    "included": true,
+    "final_sha256": "7ee589590219f3c2f88d87394acfe6ef1d88252b44d6667bc7a66108b43db6e4"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_K256_W8_multiblock.npz",
+    "submission": "data/original_cases/spmm_k256_w8_multiblock.npz",
+    "copied_source_sha256": "2714da19d2261df5d9748c78bc741977ec1329279e223d7ca094727a0d12eeef",
+    "included": true,
+    "final_sha256": "2714da19d2261df5d9748c78bc741977ec1329279e223d7ca094727a0d12eeef"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_M127_partial.npz",
+    "submission": "data/original_cases/spmm_m127_partial.npz",
+    "copied_source_sha256": "cf7387f2c11b330b72d0197a0ea3641141d6af597bdc70d4a4442679d5410e76",
+    "included": true,
+    "final_sha256": "cf7387f2c11b330b72d0197a0ea3641141d6af597bdc70d4a4442679d5410e76"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_M70_partial.npz",
+    "submission": "data/original_cases/spmm_m70_partial.npz",
+    "copied_source_sha256": "504ad16a927151e7d102c56aef1b462e204f83366abeee8ca9a42877eeb4ccf2",
+    "included": true,
+    "final_sha256": "504ad16a927151e7d102c56aef1b462e204f83366abeee8ca9a42877eeb4ccf2"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_row_reorder128.npz",
+    "submission": "data/original_cases/spmm_row_reorder128.npz",
+    "copied_source_sha256": "bd3d00698757e492f60312e3b0273f043c20d125884229cee2bd3c9704715e70",
+    "included": true,
+    "final_sha256": "bd3d00698757e492f60312e3b0273f043c20d125884229cee2bd3c9704715e70"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_small4_manual.npz",
+    "submission": "data/original_cases/spmm_small4_manual.npz",
+    "copied_source_sha256": "2f0b6e4c931e32bc67b0b5ceeaefaaec363cec56af42920cabce9779dc0ddcd7",
+    "included": true,
+    "final_sha256": "2f0b6e4c931e32bc67b0b5ceeaefaaec363cec56af42920cabce9779dc0ddcd7"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_small8_manual.npz",
+    "submission": "data/original_cases/spmm_small8_manual.npz",
+    "copied_source_sha256": "b0a9641d5a8dd08e32cea7d9d2a283ac889c93954c5e77be0a87fcdbf91e8839",
+    "included": true,
+    "final_sha256": "b0a9641d5a8dd08e32cea7d9d2a283ac889c93954c5e77be0a87fcdbf91e8839"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\spmm_zero64.npz",
+    "submission": "data/original_cases/spmm_zero64.npz",
+    "copied_source_sha256": "b7fe3ab1d776ee943b506bfd881a8a15527e25dc0c77598be9ef86f7df12542c",
+    "included": true,
+    "final_sha256": "b7fe3ab1d776ee943b506bfd881a8a15527e25dc0c77598be9ef86f7df12542c"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\sub_b_only128.npz",
+    "submission": "data/original_cases/sub_b_only128.npz",
+    "copied_source_sha256": "240647912ed736991fbef6204d7f121108431c1741aee8a601a16cb0d3343f15",
+    "included": true,
+    "final_sha256": "240647912ed736991fbef6204d7f121108431c1741aee8a601a16cb0d3343f15"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\sub_cancel128.npz",
+    "submission": "data/original_cases/sub_cancel128.npz",
+    "copied_source_sha256": "690880075399f03f31fc171930cf8543dd6b661db89a5f587cea9cf717833416",
+    "included": true,
+    "final_sha256": "690880075399f03f31fc171930cf8543dd6b661db89a5f587cea9cf717833416"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\sub_disjoint_cols128.npz",
+    "submission": "data/original_cases/sub_disjoint_cols128.npz",
+    "copied_source_sha256": "a5897ba9286857791a27a2c6ef53dfe5fda68f52232068e9a71dc6cf8c3619b1",
+    "included": true,
+    "final_sha256": "a5897ba9286857791a27a2c6ef53dfe5fda68f52232068e9a71dc6cf8c3619b1"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\sub_M70_partial.npz",
+    "submission": "data/original_cases/sub_m70_partial.npz",
+    "copied_source_sha256": "7eeeb1f9ec766fb6307387b89d1efc236dab6ba937be6877fe2df1dd6516b47b",
+    "included": true,
+    "final_sha256": "7eeeb1f9ec766fb6307387b89d1efc236dab6ba937be6877fe2df1dd6516b47b"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\sub_same_cols128.npz",
+    "submission": "data/original_cases/sub_same_cols128.npz",
+    "copied_source_sha256": "f7f56692016766f8a65828b961e88bcad8b72563260407f55754cdce6bb865b8",
+    "included": true,
+    "final_sha256": "f7f56692016766f8a65828b961e88bcad8b72563260407f55754cdce6bb865b8"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\original_cases\\sub_small8_manual.npz",
+    "submission": "data/original_cases/sub_small8_manual.npz",
+    "copied_source_sha256": "dbb75577e6d65090d6558e0e522004ab4b5a35b835bdfbd6a05c5942088afb3b",
+    "included": true,
+    "final_sha256": "dbb75577e6d65090d6558e0e522004ab4b5a35b835bdfbd6a05c5942088afb3b"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\board_environment.json",
+    "submission": "evidence/board/board_environment.json",
+    "copied_source_sha256": "df49e30ba00821de82cccb362dfdaa8b4e06c0946f504b63a6a894656bef58ca",
+    "included": true,
+    "final_sha256": "df49e30ba00821de82cccb362dfdaa8b4e06c0946f504b63a6a894656bef58ca"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\boundary_results\\add_identity512.npz",
+    "submission": "evidence/board/boundary_results/add_identity512.npz",
+    "copied_source_sha256": "f09af43b63675f3dd234d4ee07a9171bfca1ccfb2ba95f4f8cf91037493e6cf7",
+    "included": true,
+    "final_sha256": "f09af43b63675f3dd234d4ee07a9171bfca1ccfb2ba95f4f8cf91037493e6cf7"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\boundary_results\\dense_k512.npz",
+    "submission": "evidence/board/boundary_results/dense_k512.npz",
+    "copied_source_sha256": "7e98bda9881985e75f4b7bea6a6cbdb14ad2d06c17cd42e94661ce3e8fc8706b",
+    "included": true,
+    "final_sha256": "7e98bda9881985e75f4b7bea6a6cbdb14ad2d06c17cd42e94661ce3e8fc8706b"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\boundary_results\\report.json",
+    "submission": "evidence/board/boundary_results/report.json",
+    "copied_source_sha256": "bc06c5baa0e9557002ce632980a7f23d79e49e7615053c074d3adbebff8f377a",
+    "included": true,
+    "final_sha256": "bc06c5baa0e9557002ce632980a7f23d79e49e7615053c074d3adbebff8f377a"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\boundary_results\\rounding_k512.npz",
+    "submission": "evidence/board/boundary_results/rounding_k512.npz",
+    "copied_source_sha256": "afbb0dc87671f003e2a85f7e3bd9b008f29a3c9ac94c0bfc286be6e3b077f5ea",
+    "included": true,
+    "final_sha256": "afbb0dc87671f003e2a85f7e3bd9b008f29a3c9ac94c0bfc286be6e3b077f5ea"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\boundary_results\\spmm_identity512.npz",
+    "submission": "evidence/board/boundary_results/spmm_identity512.npz",
+    "copied_source_sha256": "00796b6cc07d17ce3a4476c6ccfaba78e8d5d1d831eeba907322218e3bb88fb0",
+    "included": true,
+    "final_sha256": "00796b6cc07d17ce3a4476c6ccfaba78e8d5d1d831eeba907322218e3bb88fb0"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\boundary_results\\sub_cancel512.npz",
+    "submission": "evidence/board/boundary_results/sub_cancel512.npz",
+    "copied_source_sha256": "d4a779641278b0eaf7a4a8b7855402a92a3d66ad5d8db8a68268a9416234f462",
+    "included": true,
+    "final_sha256": "d4a779641278b0eaf7a4a8b7855402a92a3d66ad5d8db8a68268a9416234f462"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\console.log",
+    "submission": "evidence/board/console.log",
+    "copied_source_sha256": "4ecc547e93f4738a21e0c4ef1663c347c7a4746d22ef56a417a3d3e14ffdba81",
+    "included": true,
+    "final_sha256": "4ecc547e93f4738a21e0c4ef1663c347c7a4746d22ef56a417a3d3e14ffdba81"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\add_a_empty_rows128.npz",
+    "submission": "evidence/board/full_results/add_a_empty_rows128.npz",
+    "copied_source_sha256": "c198848131441e13a32cc297595aa15ec2d62f1796f237c722e0495826a3ab61",
+    "included": true,
+    "final_sha256": "c198848131441e13a32cc297595aa15ec2d62f1796f237c722e0495826a3ab61"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\add_b_empty_rows128.npz",
+    "submission": "evidence/board/full_results/add_b_empty_rows128.npz",
+    "copied_source_sha256": "2fc7dd96de1cebc265e5ed75f63c8039f6c0791f25ee5e8a20c45e9cdca523d7",
+    "included": true,
+    "final_sha256": "2fc7dd96de1cebc265e5ed75f63c8039f6c0791f25ee5e8a20c45e9cdca523d7"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\add_b_only128.npz",
+    "submission": "evidence/board/full_results/add_b_only128.npz",
+    "copied_source_sha256": "86c050c6042e408da4d1e25853da7179d24824307fb51c7e1f9bbc2b2738bfb6",
+    "included": true,
+    "final_sha256": "86c050c6042e408da4d1e25853da7179d24824307fb51c7e1f9bbc2b2738bfb6"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\add_disjoint_cols128.npz",
+    "submission": "evidence/board/full_results/add_disjoint_cols128.npz",
+    "copied_source_sha256": "112fc95df8455d3e2ca846244c64c0e73680e4e07aef06d12fb630cefa22c466",
+    "included": true,
+    "final_sha256": "112fc95df8455d3e2ca846244c64c0e73680e4e07aef06d12fb630cefa22c466"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\add_M127_partial.npz",
+    "submission": "evidence/board/full_results/add_m127_partial.npz",
+    "copied_source_sha256": "387ba41c3694d5bafdbe16a03e428ef6d25260df2627568a69ec25179c6dcc3a",
+    "included": true,
+    "final_sha256": "387ba41c3694d5bafdbe16a03e428ef6d25260df2627568a69ec25179c6dcc3a"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\add_M70_partial.npz",
+    "submission": "evidence/board/full_results/add_m70_partial.npz",
+    "copied_source_sha256": "b56ba597dd5327d33225ba235341131544e85d79fd403cf024adcfeecb3c15fa",
+    "included": true,
+    "final_sha256": "b56ba597dd5327d33225ba235341131544e85d79fd403cf024adcfeecb3c15fa"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\add_same_cols128.npz",
+    "submission": "evidence/board/full_results/add_same_cols128.npz",
+    "copied_source_sha256": "59d541eeccfc05a6de66a4f6a0186393393b567352f9043445ad61bce4102784",
+    "included": true,
+    "final_sha256": "59d541eeccfc05a6de66a4f6a0186393393b567352f9043445ad61bce4102784"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\add_small8_manual.npz",
+    "submission": "evidence/board/full_results/add_small8_manual.npz",
+    "copied_source_sha256": "ef689f18f06f9b7ae2e89bc514a705ed3758dc135a4ca0fec0813f0c54093d7a",
+    "included": true,
+    "final_sha256": "ef689f18f06f9b7ae2e89bc514a705ed3758dc135a4ca0fec0813f0c54093d7a"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\report.json",
+    "submission": "evidence/board/full_results/report.json",
+    "copied_source_sha256": "6d0335869743fd5354cf486634c0d7fd12b4be408e99fdadc9b29c3b27744d8d",
+    "included": true,
+    "final_sha256": "6d0335869743fd5354cf486634c0d7fd12b4be408e99fdadc9b29c3b27744d8d"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_a_diag128.npz",
+    "submission": "evidence/board/full_results/spmm_a_diag128.npz",
+    "copied_source_sha256": "7513589cf4354be8b4439168003cc96359d336f9028e35457aa89cfba22bfeaa",
+    "included": true,
+    "final_sha256": "7513589cf4354be8b4439168003cc96359d336f9028e35457aa89cfba22bfeaa"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_b_diag128.npz",
+    "submission": "evidence/board/full_results/spmm_b_diag128.npz",
+    "copied_source_sha256": "94a2a27efed11f67544828d600a377c118bc764abfd9fb8cb179b811c0c6821c",
+    "included": true,
+    "final_sha256": "94a2a27efed11f67544828d600a377c118bc764abfd9fb8cb179b811c0c6821c"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_brow_nnz_0_64_65_128_129.npz",
+    "submission": "evidence/board/full_results/spmm_brow_nnz_0_64_65_128_129.npz",
+    "copied_source_sha256": "7c18d957b0c03200104dd646a86db378dfc36d4d20ba1c848b75283e84609a05",
+    "included": true,
+    "final_sha256": "7c18d957b0c03200104dd646a86db378dfc36d4d20ba1c848b75283e84609a05"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_diagonal128.npz",
+    "submission": "evidence/board/full_results/spmm_diagonal128.npz",
+    "copied_source_sha256": "7071fbb869b272d231878834fd179f39e015b37cece2eb04679f3b2039a1897c",
+    "included": true,
+    "final_sha256": "7071fbb869b272d231878834fd179f39e015b37cece2eb04679f3b2039a1897c"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_empty_rows128.npz",
+    "submission": "evidence/board/full_results/spmm_empty_rows128.npz",
+    "copied_source_sha256": "5494f28d72ed42335feb06d4c00d5baa97ca7c91ddc2eba6c34f4d0a54a3103c",
+    "included": true,
+    "final_sha256": "5494f28d72ed42335feb06d4c00d5baa97ca7c91ddc2eba6c34f4d0a54a3103c"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_identity64.npz",
+    "submission": "evidence/board/full_results/spmm_identity64.npz",
+    "copied_source_sha256": "5713f75acfd4f013a6688d8e3fdc75f580d4770ff11aad6633c1e53e24ae8e0b",
+    "included": true,
+    "final_sha256": "5713f75acfd4f013a6688d8e3fdc75f580d4770ff11aad6633c1e53e24ae8e0b"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_K128_W4_multiblock.npz",
+    "submission": "evidence/board/full_results/spmm_k128_w4_multiblock.npz",
+    "copied_source_sha256": "ed45c050c931e70f01b9fe61a5e99ac908080fcfd0ec5f3a3871251abcb29e09",
+    "included": true,
+    "final_sha256": "ed45c050c931e70f01b9fe61a5e99ac908080fcfd0ec5f3a3871251abcb29e09"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_K256_W8_multiblock.npz",
+    "submission": "evidence/board/full_results/spmm_k256_w8_multiblock.npz",
+    "copied_source_sha256": "23c4183e62a027dccfd63be54bdd90dec2cda3d277617fd64ebfd9f2638306f6",
+    "included": true,
+    "final_sha256": "23c4183e62a027dccfd63be54bdd90dec2cda3d277617fd64ebfd9f2638306f6"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_M127_partial.npz",
+    "submission": "evidence/board/full_results/spmm_m127_partial.npz",
+    "copied_source_sha256": "88a9b0e93217d1cebde26c7526f1714bdcca88e98a8320bdcf1513194aaf195b",
+    "included": true,
+    "final_sha256": "88a9b0e93217d1cebde26c7526f1714bdcca88e98a8320bdcf1513194aaf195b"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_M70_partial.npz",
+    "submission": "evidence/board/full_results/spmm_m70_partial.npz",
+    "copied_source_sha256": "fbfa9f2f67f51cdb1e6ebd2be4149989510bd669865fc9b601ae4641640543ec",
+    "included": true,
+    "final_sha256": "fbfa9f2f67f51cdb1e6ebd2be4149989510bd669865fc9b601ae4641640543ec"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_row_reorder128.npz",
+    "submission": "evidence/board/full_results/spmm_row_reorder128.npz",
+    "copied_source_sha256": "0b69ece2445a3b8a598ec774b4616307c9070a6038e47fe4026e9f40d7fcfe92",
+    "included": true,
+    "final_sha256": "0b69ece2445a3b8a598ec774b4616307c9070a6038e47fe4026e9f40d7fcfe92"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_small4_manual.npz",
+    "submission": "evidence/board/full_results/spmm_small4_manual.npz",
+    "copied_source_sha256": "aa105b9db357eca6ad7213e96bc53e108c107d73019301ceff88258edb29fad1",
+    "included": true,
+    "final_sha256": "aa105b9db357eca6ad7213e96bc53e108c107d73019301ceff88258edb29fad1"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_small8_manual.npz",
+    "submission": "evidence/board/full_results/spmm_small8_manual.npz",
+    "copied_source_sha256": "33b0909bf2b0549fe843bf07232c88ac579ac383190a29af798c62e48dc7ac15",
+    "included": true,
+    "final_sha256": "33b0909bf2b0549fe843bf07232c88ac579ac383190a29af798c62e48dc7ac15"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\spmm_zero64.npz",
+    "submission": "evidence/board/full_results/spmm_zero64.npz",
+    "copied_source_sha256": "8514a5efdd37a7dac87e9508ead0d537f73c87956efb928c85fb0490e1c83777",
+    "included": true,
+    "final_sha256": "8514a5efdd37a7dac87e9508ead0d537f73c87956efb928c85fb0490e1c83777"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\sub_b_only128.npz",
+    "submission": "evidence/board/full_results/sub_b_only128.npz",
+    "copied_source_sha256": "76e484446a03ec96c078cac5625492e51b2653de857153ca2d1b7ab039ecb8ad",
+    "included": true,
+    "final_sha256": "76e484446a03ec96c078cac5625492e51b2653de857153ca2d1b7ab039ecb8ad"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\sub_cancel128.npz",
+    "submission": "evidence/board/full_results/sub_cancel128.npz",
+    "copied_source_sha256": "4c845cde6e02f5b63f94e067fcaebfaeb742ae76daaff6d8b62155450c929daf",
+    "included": true,
+    "final_sha256": "4c845cde6e02f5b63f94e067fcaebfaeb742ae76daaff6d8b62155450c929daf"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\sub_disjoint_cols128.npz",
+    "submission": "evidence/board/full_results/sub_disjoint_cols128.npz",
+    "copied_source_sha256": "b04ae3dace65e61cf508f771b3181c08aae6e0df65b71a8da4d576b8457a0ca4",
+    "included": true,
+    "final_sha256": "b04ae3dace65e61cf508f771b3181c08aae6e0df65b71a8da4d576b8457a0ca4"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\sub_M70_partial.npz",
+    "submission": "evidence/board/full_results/sub_m70_partial.npz",
+    "copied_source_sha256": "496c9ccc307a36d85928d4b10f7c43a561cb632696bded3ac0e8a92a24bd1b1e",
+    "included": true,
+    "final_sha256": "496c9ccc307a36d85928d4b10f7c43a561cb632696bded3ac0e8a92a24bd1b1e"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\sub_same_cols128.npz",
+    "submission": "evidence/board/full_results/sub_same_cols128.npz",
+    "copied_source_sha256": "36cedadcce6dfda44aa21e29eaebc9c1159be22b7fb692c1108de15308fccee4",
+    "included": true,
+    "final_sha256": "36cedadcce6dfda44aa21e29eaebc9c1159be22b7fb692c1108de15308fccee4"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\full_results\\sub_small8_manual.npz",
+    "submission": "evidence/board/full_results/sub_small8_manual.npz",
+    "copied_source_sha256": "aec12506434935a4ad9db19f8e70d81438bce48642637d6254a42e9ca407a1ea",
+    "included": true,
+    "final_sha256": "aec12506434935a4ad9db19f8e70d81438bce48642637d6254a42e9ca407a1ea"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\nanshan_full_executed.ipynb",
+    "submission": "evidence/board/sparse_matrix_full_executed.ipynb",
+    "copied_source_sha256": "e3ccb2857af86e957ad7176e9809396c83713ff003a11ec976fbc922a79db5cb",
+    "included": true,
+    "final_sha256": "e3ccb2857af86e957ad7176e9809396c83713ff003a11ec976fbc922a79db5cb"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\remote.json",
+    "submission": "evidence/board/remote.json",
+    "copied_source_sha256": "21890cb7854f18f223641e419cbbadcb201a877d231adc0006e786befa134c99",
+    "included": true,
+    "final_sha256": "21890cb7854f18f223641e419cbbadcb201a877d231adc0006e786befa134c99"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\board\\summary.json",
+    "submission": "evidence/board/summary.json",
+    "copied_source_sha256": "3ebb211310b89e999009cc3a1f5579b5ba81b93ac5c7fe799cd2621ddc503671",
+    "included": true,
+    "final_sha256": "3ebb211310b89e999009cc3a1f5579b5ba81b93ac5c7fe799cd2621ddc503671"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\build_proof.json",
+    "submission": "evidence/full_build/build_proof.json",
+    "copied_source_sha256": "faab088c34934df3938d30accc7990e24231e2cebfd1ec60b455f6cf19a162f5",
+    "included": true,
+    "final_sha256": "faab088c34934df3938d30accc7990e24231e2cebfd1ec60b455f6cf19a162f5"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\clock_buffer_audit.log",
+    "submission": "evidence/full_build/clock_buffer_audit.log",
+    "copied_source_sha256": "d68e9905efce3c23110ba80c93f8dc24f949d997b6c148fad77bc567467cb32f",
+    "included": true,
+    "final_sha256": "d68e9905efce3c23110ba80c93f8dc24f949d997b6c148fad77bc567467cb32f"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\clock_buffer_audit.txt",
+    "submission": "evidence/full_build/clock_buffer_audit.txt",
+    "copied_source_sha256": "c3a393a97b9c4aaa51d5ad2f99e1119060f7feb3143ae907edae70c0cc4c353e",
+    "included": true,
+    "final_sha256": "c3a393a97b9c4aaa51d5ad2f99e1119060f7feb3143ae907edae70c0cc4c353e"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\compiled_source_hashes.json",
+    "submission": "evidence/full_build/compiled_source_hashes.json",
+    "copied_source_sha256": "6ad6d659cecaeba746da8696bbaa2966f4f950f51976fcad63675fae335e9bab",
+    "included": true,
+    "final_sha256": "6ad6d659cecaeba746da8696bbaa2966f4f950f51976fcad63675fae335e9bab"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\console.log",
+    "submission": "evidence/full_build/console.log",
+    "copied_source_sha256": "2ce9e6e151cb0c1eeaea1d73b8332b5b20cb665af04d5b35a9f4259bb171adc1",
+    "included": true,
+    "final_sha256": "2ce9e6e151cb0c1eeaea1d73b8332b5b20cb665af04d5b35a9f4259bb171adc1"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\drc_routed.rpt",
+    "submission": "evidence/full_build/drc_routed.rpt",
+    "copied_source_sha256": "7a9973ec2afa1ae8140783d9963b7f354c48c37cd6303646052468768f909c95",
+    "included": true,
+    "final_sha256": "7a9973ec2afa1ae8140783d9963b7f354c48c37cd6303646052468768f909c95"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\route_status.rpt",
+    "submission": "evidence/full_build/route_status.rpt",
+    "copied_source_sha256": "2da03337cd00dfdceeb01c3d6cf9032ce25377c1ab66c811c5ebf1adea7861d6",
+    "included": true,
+    "final_sha256": "2da03337cd00dfdceeb01c3d6cf9032ce25377c1ab66c811c5ebf1adea7861d6"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\summary.json",
+    "submission": "evidence/full_build/summary.json",
+    "copied_source_sha256": "772d2b14674d0b6ef8f86544edce5d0e1adf4a3af1108b902563e2001301456a",
+    "included": true,
+    "final_sha256": "772d2b14674d0b6ef8f86544edce5d0e1adf4a3af1108b902563e2001301456a"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\timing_checks.rpt",
+    "submission": "evidence/full_build/timing_checks.rpt",
+    "copied_source_sha256": "4ebe95cd21c485a49a191e93a2ed9aef6384c92719856ed54982dcce9859027c",
+    "included": true,
+    "final_sha256": "4ebe95cd21c485a49a191e93a2ed9aef6384c92719856ed54982dcce9859027c"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\timing_routed.rpt",
+    "submission": "evidence/full_build/timing_routed.rpt",
+    "copied_source_sha256": "2ed186e40b8b5b3bc4a05a9c683eb0a2551b6922d17375b40815ff74b90461d2",
+    "included": true,
+    "final_sha256": "2ed186e40b8b5b3bc4a05a9c683eb0a2551b6922d17375b40815ff74b90461d2"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_build\\utilization_routed.rpt",
+    "submission": "evidence/full_build/utilization_routed.rpt",
+    "copied_source_sha256": "3053462f0503e214774ce1d587d82f66774fa55690efa9539452407b705054d4",
+    "included": true,
+    "final_sha256": "3053462f0503e214774ce1d587d82f66774fa55690efa9539452407b705054d4"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_rtl\\compile.log",
+    "submission": "evidence/full_rtl/compile.log",
+    "copied_source_sha256": "a0243834ac9df03c5838381b82781db73ac40023eb2826c0eb41be52380da815",
+    "included": true,
+    "final_sha256": "a0243834ac9df03c5838381b82781db73ac40023eb2826c0eb41be52380da815"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_rtl\\elaborate.log",
+    "submission": "evidence/full_rtl/elaborate.log",
+    "copied_source_sha256": "d56f4b8403476c647fc79576dceaed2dd9994eb085316bf57d25d3a662320bef",
+    "included": true,
+    "final_sha256": "d56f4b8403476c647fc79576dceaed2dd9994eb085316bf57d25d3a662320bef"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_rtl\\jobs.json",
+    "submission": "evidence/full_rtl/jobs.json",
+    "copied_source_sha256": "02fcaf5151330a28327fd866a866425203af123af0b1769c37e7779ac2cb7883",
+    "included": true,
+    "final_sha256": "02fcaf5151330a28327fd866a866425203af123af0b1769c37e7779ac2cb7883"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_rtl\\run.log",
+    "submission": "evidence/full_rtl/run.log",
+    "copied_source_sha256": "28df4863aa6cdd9af4ab8b6099429d6a2c85618e957ac7354292c1bfc43a520c",
+    "included": true,
+    "final_sha256": "28df4863aa6cdd9af4ab8b6099429d6a2c85618e957ac7354292c1bfc43a520c"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_rtl\\source_manifest.json",
+    "submission": "evidence/full_rtl/source_manifest.json",
+    "copied_source_sha256": "ae770c7e5c3ca19f5d55af6415960313dab6af6a549161c3529c2193d635adfa",
+    "included": true,
+    "final_sha256": "ae770c7e5c3ca19f5d55af6415960313dab6af6a549161c3529c2193d635adfa"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\full_rtl\\summary.json",
+    "submission": "evidence/full_rtl/summary.json",
+    "copied_source_sha256": "be180dbe13e7b8965f5e3289ca130637557bd973830a48bb96379c02b377526c",
+    "included": true,
+    "final_sha256": "be180dbe13e7b8965f5e3289ca130637557bd973830a48bb96379c02b377526c"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\host_tests.log",
+    "submission": "evidence/host_tests.log",
+    "copied_source_sha256": "7aa906b8dd2c6353bb752f3da229279990e7aa1005b4985f0b202015d4905ae5",
+    "included": true,
+    "final_sha256": "7aa906b8dd2c6353bb752f3da229279990e7aa1005b4985f0b202015d4905ae5"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\numerical_rtl\\compile.log",
+    "submission": "evidence/numerical_rtl/compile.log",
+    "copied_source_sha256": "0ceed0041c5dd1bffc15120d79f7da6b408c0d9ee6d23b20d6d8ccc5af596178",
+    "included": true,
+    "final_sha256": "0ceed0041c5dd1bffc15120d79f7da6b408c0d9ee6d23b20d6d8ccc5af596178"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\numerical_rtl\\elaborate.log",
+    "submission": "evidence/numerical_rtl/elaborate.log",
+    "copied_source_sha256": "192992ec2b424f5548c08d6b1a917dba39e7a2048b2c1e41f018e9feb9500c83",
+    "included": true,
+    "final_sha256": "192992ec2b424f5548c08d6b1a917dba39e7a2048b2c1e41f018e9feb9500c83"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\numerical_rtl\\jobs.json",
+    "submission": "evidence/numerical_rtl/jobs.json",
+    "copied_source_sha256": "81d8079a3ed7e8a178040e9977dbf413769f9c3712b8eb3a2ef6a5705bc40a1d",
+    "included": true,
+    "final_sha256": "81d8079a3ed7e8a178040e9977dbf413769f9c3712b8eb3a2ef6a5705bc40a1d"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\numerical_rtl\\run.log",
+    "submission": "evidence/numerical_rtl/run.log",
+    "copied_source_sha256": "b83d0e22d1e551c02ccaaa1d493cae91c2415109383f56a4fbf2e17f3f05c237",
+    "included": true,
+    "final_sha256": "b83d0e22d1e551c02ccaaa1d493cae91c2415109383f56a4fbf2e17f3f05c237"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\numerical_rtl\\source_manifest.json",
+    "submission": "evidence/numerical_rtl/source_manifest.json",
+    "copied_source_sha256": "ae770c7e5c3ca19f5d55af6415960313dab6af6a549161c3529c2193d635adfa",
+    "included": true,
+    "final_sha256": "ae770c7e5c3ca19f5d55af6415960313dab6af6a549161c3529c2193d635adfa"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\numerical_rtl\\summary.json",
+    "submission": "evidence/numerical_rtl/summary.json",
+    "copied_source_sha256": "0a196510cc38a9998b8c01c0a330fbf164f65518ff03a93be1ea688a6a162b88",
+    "included": true,
+    "final_sha256": "0a196510cc38a9998b8c01c0a330fbf164f65518ff03a93be1ea688a6a162b88"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\resource_check\\console.log",
+    "submission": "evidence/resource_check/console.log",
+    "copied_source_sha256": "98abd813f127d299b814127c24613d8d258fc2307543c3e3c09a3176798df658",
+    "included": true,
+    "final_sha256": "98abd813f127d299b814127c24613d8d258fc2307543c3e3c09a3176798df658"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\resource_check\\resource_check.tcl",
+    "submission": "evidence/resource_check/resource_check.tcl",
+    "copied_source_sha256": "7e995f096d21fccf1e769c35f0ab0d82bed815d08ca9eab46a1c2fd78f5b0ee6",
+    "included": true,
+    "final_sha256": "7e995f096d21fccf1e769c35f0ab0d82bed815d08ca9eab46a1c2fd78f5b0ee6"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\resource_check\\summary.json",
+    "submission": "evidence/resource_check/summary.json",
+    "copied_source_sha256": "cf549ebb03e7f841f0d546133ef1b77f1d9961f29ca28ab6cf597e58b032014d",
+    "included": true,
+    "final_sha256": "cf549ebb03e7f841f0d546133ef1b77f1d9961f29ca28ab6cf597e58b032014d"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\resource_check\\utilization_synth.rpt",
+    "submission": "evidence/resource_check/utilization_synth.rpt",
+    "copied_source_sha256": "38f296ed88d68fc0e1852c2c81240ca2a21a2743027d90e5ae277a7d3c3a9949",
+    "included": true,
+    "final_sha256": "38f296ed88d68fc0e1852c2c81240ca2a21a2743027d90e5ae277a7d3c3a9949"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\storage\\migration_verification.json",
+    "submission": "evidence/storage/migration_verification.json",
+    "copied_source_sha256": "1e46ddeebe61421fcb8a92694c58e9f99b587a6d34e280f5237fef8607374a47",
+    "included": true,
+    "final_sha256": "1e46ddeebe61421fcb8a92694c58e9f99b587a6d34e280f5237fef8607374a47"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\storage\\simulation.log",
+    "submission": "evidence/storage/simulation.log",
+    "copied_source_sha256": "6d9c9e15c9f8d50bd980361bbd3ce7944d7777954321a436aa17315d21dc2ea1",
+    "included": true,
+    "final_sha256": "6d9c9e15c9f8d50bd980361bbd3ce7944d7777954321a436aa17315d21dc2ea1"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\evidence\\storage\\vivado_paths.txt",
+    "submission": "evidence/storage/vivado_paths.txt",
+    "copied_source_sha256": "5eb4f57ec8d33f3467a2c597f60daad5c2ea0d6fc966854560da16daf2d9004a",
+    "included": true,
+    "final_sha256": "5eb4f57ec8d33f3467a2c597f60daad5c2ea0d6fc966854560da16daf2d9004a"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\host\\check_environment.py",
+    "submission": "src/host/check_environment.py",
+    "copied_source_sha256": "3f1892af5bf23b65f678c64894f4acd3c4a5246e58163abaff1a68536289369b",
+    "included": true,
+    "final_sha256": "6891e90c625657dd719efb8f5a2b327402729bfe2cc8ce5ef23515ecdd729994"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\host\\nanshan.py",
+    "submission": "src/host/sparse_matrix.py",
+    "copied_source_sha256": "0679a7b187dfdc5e253988cb07ec6489ee5ec1e55883047988db2a2e3487ee6f",
+    "included": true,
+    "final_sha256": "9b329b532760d024e47c64fbd89840fb8e2b4f4ff0c3fccb8afe433fdc31efe9"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\host\\nanshan_full.ipynb",
+    "submission": "src/host/sparse_matrix_full.ipynb",
+    "copied_source_sha256": "91edadc747330c6294540a3ad0c3332d3872aeb55d271b4e7243c53d6fda226c",
+    "included": false,
+    "note": "Superseded by the normalized deployment files under board/"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\work\\full_port\\host\\original_cases.zip",
+    "submission": "src/host/original_cases.zip",
+    "copied_source_sha256": "da5242d616ad78d659470a86482a4c1dd3bd6d2a1acee9730ec9d53245815385",
+    "included": false,
+    "note": "Superseded by the normalized deployment files under board/"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\outputs\\Nanshan_demo_实板联调\\console.log",
+    "submission": "evidence/demo_board/console.log",
+    "copied_source_sha256": "8c7842173fdb805dbc6b21107511b3ba4ef5dbd5735f74e75274d726dcfad1d2",
+    "included": true,
+    "final_sha256": "8c7842173fdb805dbc6b21107511b3ba4ef5dbd5735f74e75274d726dcfad1d2"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\outputs\\Nanshan_demo_实板联调\\demo_acceptance.json",
+    "submission": "evidence/demo_board/demo_acceptance.json",
+    "copied_source_sha256": "e560717399251aefde8da2b3a3c50a730dd966d6fcfb41e499c12a8c0486591b",
+    "included": true,
+    "final_sha256": "e560717399251aefde8da2b3a3c50a730dd966d6fcfb41e499c12a8c0486591b"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\outputs\\Nanshan_demo_实板联调\\Nanshan_Demo_executed.ipynb",
+    "submission": "evidence/demo_board/sparse_matrix_demo_executed.ipynb",
+    "copied_source_sha256": "8cdd4f1ba56ffab34427e4c87d20093984343c1709066e846ac9cf32cd611365",
+    "included": true,
+    "final_sha256": "8cdd4f1ba56ffab34427e4c87d20093984343c1709066e846ac9cf32cd611365"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\Projects\\Nanshan_ZCU104\\outputs\\Nanshan_demo_实板联调\\remote.json",
+    "submission": "evidence/demo_board/remote.json",
+    "copied_source_sha256": "3ad2379bb362b2012c3b581a821ee5d82ad7380648ef864c7ca7d5dae46f58cb",
+    "included": true,
+    "final_sha256": "3ad2379bb362b2012c3b581a821ee5d82ad7380648ef864c7ca7d5dae46f58cb"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\evidence\\offline_tests.log",
+    "submission": "skill/evidence/offline_tests.log",
+    "copied_source_sha256": "4210f73f3c6d4e1ef347a271f4406033c87d5f3eabc9fbe88a56cef203d76897",
+    "included": true,
+    "final_sha256": "4210f73f3c6d4e1ef347a271f4406033c87d5f3eabc9fbe88a56cef203d76897"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\evidence\\project_golden_comparison.json",
+    "submission": "skill/evidence/project_golden_comparison.json",
+    "copied_source_sha256": "21e43605d99351502122280be46d6480c204a270ec0c429431c6f7299973184e",
+    "included": true,
+    "final_sha256": "21e43605d99351502122280be46d6480c204a270ec0c429431c6f7299973184e"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\evidence\\project_overlay_check.json",
+    "submission": "skill/evidence/project_overlay_check.json",
+    "copied_source_sha256": "c494dd6ab061927bc7527105035aebd56eaf9d9f3b41fd8a872f0eb3bad55d67",
+    "included": true,
+    "final_sha256": "c494dd6ab061927bc7527105035aebd56eaf9d9f3b41fd8a872f0eb3bad55d67"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\evidence\\threshold_comparison.json",
+    "submission": "skill/evidence/threshold_comparison.json",
+    "copied_source_sha256": "eaf408f99fa3ef09c88d7579bfd078d2e6803ec8c970de262f0dd6b224d4eb57",
+    "included": true,
+    "final_sha256": "eaf408f99fa3ef09c88d7579bfd078d2e6803ec8c970de262f0dd6b224d4eb57"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\evidence\\validation.json",
+    "submission": "skill/evidence/validation.json",
+    "copied_source_sha256": "723ae88bc26252e52f5ba31f7f3a30cdde59cdd15536412003899fcdbeab3e99",
+    "included": true,
+    "final_sha256": "723ae88bc26252e52f5ba31f7f3a30cdde59cdd15536412003899fcdbeab3e99"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\evidence\\vector_add_comparison.json",
+    "submission": "skill/evidence/vector_add_comparison.json",
+    "copied_source_sha256": "0b814b588b2e2f7eaea27eb0f7cc6881440d51f94f0d7eb7e7dec6320ebbc1ab",
+    "included": true,
+    "final_sha256": "0b814b588b2e2f7eaea27eb0f7cc6881440d51f94f0d7eb7e7dec6320ebbc1ab"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\examples\\threshold_actual.json",
+    "submission": "skill/examples/threshold_actual.json",
+    "copied_source_sha256": "df55423fa0a221e7baca24bc9a63fcb3307e184c0b1d0096219084481fd3325b",
+    "included": true,
+    "final_sha256": "638a9f6174285773232b9c616a714f4b47a4bfb1f12b5b0298e6c5291215bc84"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\examples\\threshold_golden.json",
+    "submission": "skill/examples/threshold_golden.json",
+    "copied_source_sha256": "df55423fa0a221e7baca24bc9a63fcb3307e184c0b1d0096219084481fd3325b",
+    "included": true,
+    "final_sha256": "638a9f6174285773232b9c616a714f4b47a4bfb1f12b5b0298e6c5291215bc84"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\examples\\vector_add_actual.json",
+    "submission": "skill/examples/vector_add_actual.json",
+    "copied_source_sha256": "005dd5f083580fa11acfc98812c249b936ce97bfb1888b00567e0f1097230bb1",
+    "included": true,
+    "final_sha256": "baa0d9542328f2e6fd834ad2dcb8d8d1034252cb29617557e429bed0ebce16e7"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\examples\\vector_add_golden.json",
+    "submission": "skill/examples/vector_add_golden.json",
+    "copied_source_sha256": "005dd5f083580fa11acfc98812c249b936ce97bfb1888b00567e0f1097230bb1",
+    "included": true,
+    "final_sha256": "baa0d9542328f2e6fd834ad2dcb8d8d1034252cb29617557e429bed0ebce16e7"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\pitfalls.md",
+    "submission": "skill/pitfalls.md",
+    "copied_source_sha256": "b88da067810fd26d1c291e6d5bcab4d26364d842312e4bbb9dc04610359878f0",
+    "included": true,
+    "final_sha256": "73d5315ef63296713826c5b14959b48db0fc7ac0f545abe2b8fc30d29da0e97b"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\README.md",
+    "submission": "skill/readme.md",
+    "copied_source_sha256": "bfcd50372f242aeecb1d2c33a3452e4c3a4c9a3fc2942e0b475b347355a9f465",
+    "included": true,
+    "final_sha256": "0837d7ba8f8a49e4d4033e050e3e3598357c464ede739c48d54c6d6a62aa4d4d"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\scripts\\check_overlay.py",
+    "submission": "skill/scripts/check_overlay.py",
+    "copied_source_sha256": "f5ec6eb0ca7556383984f3dea829f9edfb807ff97ca38d4023e1646213a71f5d",
+    "included": true,
+    "final_sha256": "ba665f83e19a01b61d58c1c99f680f32c496de8e3a1b608cdffae5f0136a6da9"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\scripts\\compare_golden.py",
+    "submission": "skill/scripts/compare_golden.py",
+    "copied_source_sha256": "5b40c5b8515d8880ed26f481040e964dd1c6a3afd9167cc39e1a6aaf7acdfa2d",
+    "included": true,
+    "final_sha256": "45802ffbf259efcf15f08626ac280b81909f945c88de2ac7f2a6ab3ecfd718ec"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\scripts\\probe_environment.py",
+    "submission": "skill/scripts/probe_environment.py",
+    "copied_source_sha256": "248d85218074582108443f723099cd83ba182e5b3c3a94120097e07bcc88bc37",
+    "included": true,
+    "final_sha256": "d904ef40c89d642b4a5c1e126033be63fdef328418eb39cc0870d3d8d1c34025"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\tests\\test_tools.py",
+    "submission": "skill/tests/test_tools.py",
+    "copied_source_sha256": "d23dae50d227bb31c4c799b195d6a2f99fc8297cd656c344b8ac31440aec7df0",
+    "included": true,
+    "final_sha256": "564c21877e13c0c234c604cb5db8aac09c0e5cffe51b182608242c3396711dc3"
+  },
+  {
+    "original": "D:\\Codex_Vivado_Work\\skill_review_20261031\\skill\\workflow.md",
+    "submission": "skill/workflow.md",
+    "copied_source_sha256": "854f7fd9c695544a610865d423d8cf51f7b16f077001998814756991ab38f7b7",
+    "included": true,
+    "final_sha256": "1875b05f25805b6e393fae396f88ecefe5389c848cbccc4a0ae900b3681232ba"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-26",
+  "offline_tests": 14,
+  "offline_tests_passed": true,
+  "project_overlay_offline_checks": true,
+  "project_golden_values": 4096,
+  "project_golden_mismatches": 0,
+  "project_golden_source": "simulation",
+  "reuse_examples": [
+    "vector_add",
+    "threshold"
+  ],
+  "reuse_example_source": "synthetic software data",
+  "real_board_tested": false,
+  "cross_board_tested": false,
+  "clean_pynq_image_deployment_tested": false,
+  "python": "3.12.14"
+}

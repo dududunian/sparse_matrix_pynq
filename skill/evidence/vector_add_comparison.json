@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "actual_values": 4,
+  "expected_values": 4,
+  "length_match": true,
+  "mismatches": 0,
+  "missing_or_extra": 0,
+  "first_differences": [],
+  "max_abs_error_on_overlap": 0,
+  "mode": "exact",
+  "atol": 0.0,
+  "rtol": 0.0,
+  "actual": "skill\\examples\\vector_add_actual.json",
+  "golden": "skill\\examples\\vector_add_golden.json",
+  "source_kind_declared": "example",
+  "source_authenticated": false,
+  "scope": "File comparison only; does not establish real-board execution"
+}

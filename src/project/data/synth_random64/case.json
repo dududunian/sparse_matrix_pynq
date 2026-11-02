@@ -1,0 +1,1 @@
+{"rtl_config": {"cfg_m": 64, "cfg_n": 64, "cfg_k": 64, "cfg_block_vecs": 8, "cfg_a_vec_count": 25, "cfg_b_spmm_ptr_base": 0, "cfg_b_add_ptr_base": 0, "cfg_pe_mode": 0}}

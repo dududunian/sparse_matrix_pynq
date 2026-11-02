@@ -1,0 +1,20 @@
+{
+  "offline_checks_passed": true,
+  "declared_pair_verified": true,
+  "board_tested": false,
+  "files": {
+    "bit": {
+      "path": "deliverables\\zcu104_bringup\\work\\project\\host\\spmm_zcu104.bit",
+      "bytes": 19311213,
+      "sha256": "c34a8ded6fc03e8f3b8e1fe24e79f60d4cb46846dd7185601474afdc0fa03359"
+    },
+    "hwh": {
+      "path": "deliverables\\zcu104_bringup\\work\\project\\host\\spmm_zcu104.hwh",
+      "bytes": 180325,
+      "sha256": "2f14e13ab37eef366656957a31e644038e903b0f9bf2f3e733182de796221f79"
+    }
+  },
+  "errors": [],
+  "hwh_modules": 4,
+  "limitations": "No bitstream semantic validation, timing approval, PYNQ parsing, download or board test. Hashes bind files to the supplied declaration, not prove a common build by themselves."
+}

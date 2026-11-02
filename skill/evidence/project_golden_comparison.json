@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "actual_values": 4096,
+  "expected_values": 4096,
+  "length_match": true,
+  "mismatches": 0,
+  "missing_or_extra": 0,
+  "first_differences": [],
+  "max_abs_error_on_overlap": 0,
+  "mode": "exact",
+  "atol": 0.0,
+  "rtol": 0.0,
+  "source_kind": "simulation",
+  "actual_sha256": "c5d5a7c0f153abf8d68cbad2cb41362c30a8f2ef1c4a32156132e24f2a100099",
+  "golden_sha256": "18e99d36e04631d2a10b209a2882f019950147d64687fe2eab2d469cf258462a",
+  "board_tested": false
+}
