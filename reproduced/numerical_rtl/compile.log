@@ -1,0 +1,33 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/a_loader.sv" into library work
+INFO: [VRFC 10-311] analyzing module A_loader
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/a_row_rom.sv" into library work
+INFO: [VRFC 10-311] analyzing module A_row_rom
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/a_vec_rom.sv" into library work
+INFO: [VRFC 10-311] analyzing module A_vec_rom
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/b_loader.sv" into library work
+INFO: [VRFC 10-311] analyzing module B_loader
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/b_row_ptr_rom.sv" into library work
+INFO: [VRFC 10-311] analyzing module B_row_ptr_rom
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/b_val_rom.sv" into library work
+INFO: [VRFC 10-311] analyzing module B_val_rom
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/c_res_ram.sv" into library work
+INFO: [VRFC 10-311] analyzing module C_res_ram
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/fifo.sv" into library work
+INFO: [VRFC 10-311] analyzing module fifo
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/fp16_exec.sv" into library work
+INFO: [VRFC 10-311] analyzing module fp16_exec
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/pe_core.sv" into library work
+INFO: [VRFC 10-311] analyzing module pe_core
+INFO: [VRFC 10-311] analyzing module pe_partial_fifo
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/spmm_wide_input_ram.sv" into library work
+INFO: [VRFC 10-311] analyzing module spmm_wide_input_ram
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/store.sv" into library work
+INFO: [VRFC 10-311] analyzing module Store
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/src/top.sv" into library work
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/board/spmm_axi_ctrl.sv" into library work
+INFO: [VRFC 10-311] analyzing module spmm_axi_ctrl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/board/spmm_zcu104.v" into library work
+INFO: [VRFC 10-311] analyzing module spmm_zcu104
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Codex_Vivado_Work/submission_verify/ns_full_sim_l2zx72j5/sim/tb_sparse_matrix_full.sv" into library work
+INFO: [VRFC 10-311] analyzing module tb_sparse_matrix_full

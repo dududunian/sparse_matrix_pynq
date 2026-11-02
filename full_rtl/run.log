@@ -1,0 +1,46 @@
+
+****** xsim v2018.3 (64-bit)
+  **** SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+  **** IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source xsim.dir/nanshan_full_sim/xsim_script.tcl
+# xsim {nanshan_full_sim} -autoloadwcfg -runall
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+run -all
+FULL_CASE_PASS last_job=3
+FULL_CASE_PASS last_job=7
+FULL_CASE_PASS last_job=11
+FULL_CASE_PASS last_job=15
+FULL_CASE_PASS last_job=19
+FULL_CASE_PASS last_job=23
+FULL_CASE_PASS last_job=27
+FULL_CASE_PASS last_job=28
+FULL_CASE_PASS last_job=32
+FULL_CASE_PASS last_job=36
+FULL_CASE_PASS last_job=44
+FULL_CASE_PASS last_job=48
+FULL_CASE_PASS last_job=52
+FULL_CASE_PASS last_job=53
+FULL_CASE_PASS last_job=57
+FULL_CASE_PASS last_job=65
+FULL_CASE_PASS last_job=69
+FULL_CASE_PASS last_job=73
+FULL_CASE_PASS last_job=77
+FULL_CASE_PASS last_job=78
+FULL_CASE_PASS last_job=79
+FULL_CASE_PASS last_job=80
+FULL_CASE_PASS last_job=84
+FULL_CASE_PASS last_job=88
+FULL_CASE_PASS last_job=92
+FULL_CASE_PASS last_job=96
+FULL_CASE_PASS last_job=100
+FULL_CASE_PASS last_job=101
+FULL_CASE_PASS last_job=165
+FULL_CASE_PASS last_job=166
+FULL_RTL_PASS jobs=167 checks=1131561
+$finish called at time : 162796860 ns : File "C:/Users/20560/AppData/Local/Temp/ns_full_sim_qyl_taff/sim/tb_nanshan_full.sv" Line 150
+run: Time (s): cpu = 00:00:00 ; elapsed = 00:07:54 . Memory (MB): peak = 219.555 ; gain = 0.000
+exit
+INFO: [Common 17-206] Exiting xsim at Sun Oct 25 22:02:11 2026...
