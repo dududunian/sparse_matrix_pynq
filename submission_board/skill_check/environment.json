@@ -1,0 +1,19 @@
+{
+  "system": "Linux",
+  "machine": "aarch64",
+  "python": "3.12.3",
+  "python_executable": "/usr/local/share/pynq-venv/bin/python3",
+  "board_model": "ZynqMP ZCU104 RevA",
+  "pynq_version": "4.0.0",
+  "api_imports": {
+    "pynq.Overlay": true,
+    "pynq.MMIO": true,
+    "pynq.allocate": true,
+    "pynq.ps.Clocks": true
+  },
+  "errors": {},
+  "hardware_tested": false,
+  "core_apis_importable": true,
+  "embedded_arm_linux_candidate": true,
+  "interpretation": "Software import check only; board compatibility, permissions, clocks and PL operation are untested."
+}

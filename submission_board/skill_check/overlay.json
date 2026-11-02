@@ -1,0 +1,20 @@
+{
+  "offline_checks_passed": true,
+  "declared_pair_verified": true,
+  "board_tested": false,
+  "files": {
+    "bit": {
+      "path": "sparse_matrix_full.bit",
+      "bytes": 19311213,
+      "sha256": "fc1ac3610c56823ac26e488412e28b557181a3938d2af3d540580cd227510316"
+    },
+    "hwh": {
+      "path": "sparse_matrix_full.hwh",
+      "bytes": 180316,
+      "sha256": "e1ed9b5fcca3fce86a6608f3f780e5200d8af3f0aeba287386f74e9f5fd5bb45"
+    }
+  },
+  "errors": [],
+  "hwh_modules": 4,
+  "limitations": "No bitstream semantic validation, timing approval, PYNQ parsing, download or board test. Hashes bind files to the supplied declaration, not prove a common build by themselves."
+}

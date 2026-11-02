@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "actual_values": 16,
+  "expected_values": 16,
+  "length_match": true,
+  "mismatches": 0,
+  "missing_or_extra": 0,
+  "first_differences": [],
+  "max_abs_error_on_overlap": 0,
+  "mode": "exact",
+  "atol": 0.0,
+  "rtol": 0.0,
+  "actual": "skill_check/actual.hex",
+  "golden": "skill_check/golden.hex",
+  "source_kind_declared": "board",
+  "source_authenticated": false,
+  "scope": "File comparison only; does not establish real-board execution"
+}

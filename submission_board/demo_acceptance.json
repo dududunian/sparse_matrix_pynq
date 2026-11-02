@@ -1,0 +1,67 @@
+{
+  "passed": true,
+  "backend": "ZCU104 FPGA",
+  "checks": [
+    {
+      "mode": "spmm",
+      "size": 32,
+      "preset": "random",
+      "passed": true,
+      "tiles": 1,
+      "mismatches": 0,
+      "pl_time_ms": 0.09530095300953009,
+      "total_seconds": 0.6288324600000124
+    },
+    {
+      "mode": "add",
+      "size": 32,
+      "preset": "random",
+      "passed": true,
+      "tiles": 1,
+      "mismatches": 0,
+      "pl_time_ms": 0.08622086220862209,
+      "total_seconds": 0.6094421999998758
+    },
+    {
+      "mode": "sub",
+      "size": 32,
+      "preset": "random",
+      "passed": true,
+      "tiles": 1,
+      "mismatches": 0,
+      "pl_time_ms": 0.08622086220862209,
+      "total_seconds": 0.6100681199998235
+    },
+    {
+      "mode": "spmm",
+      "size": 128,
+      "preset": "identity",
+      "passed": true,
+      "tiles": 4,
+      "mismatches": 0,
+      "pl_time_ms": 0.4799447994479945,
+      "total_seconds": 2.6201916099998925
+    },
+    {
+      "mode": "sub",
+      "size": 64,
+      "preset": "same",
+      "passed": true,
+      "tiles": 1,
+      "mismatches": 0,
+      "pl_time_ms": 0.09050090500905009,
+      "total_seconds": 0.6632248799999161
+    },
+    {
+      "mode": "spmm",
+      "size": 32,
+      "preset": "zero",
+      "passed": true,
+      "tiles": 1,
+      "mismatches": 0,
+      "pl_time_ms": 0.08710087100871008,
+      "total_seconds": 0.6069584499998655
+    }
+  ],
+  "clock_hz": 49999500
+}
