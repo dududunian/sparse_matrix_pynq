@@ -1,9 +1,0 @@
-{
-  "passed": true,
-  "original_cases": 28,
-  "boundary_cases": 2,
-  "jobs": 167,
-  "axi_full_upload_jobs": 3,
-  "stage": "C:\\Users\\20560\\AppData\\Local\\Temp\\ns_full_sim_qyl_taff",
-  "tool": "Vivado 2018.3 xsim"
-}

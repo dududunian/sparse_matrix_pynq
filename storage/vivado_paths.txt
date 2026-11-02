@@ -1,4 +1,0 @@
-CWD=D:/Codex_Vivado_Work/Sessions/Vivado
-TEMP=D:\Codex_Vivado_Work\Temp
-TMP=D:\Codex_Vivado_Work\Temp
-NS_WORK_DIR=D:\Codex_Vivado_Work

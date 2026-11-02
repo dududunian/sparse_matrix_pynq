@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "stage": "D:\\Codex_Vivado_Work\\ns_ooc_nrahhzqn",
+  "board_tested": false,
+  "scope": "Accelerator out-of-context synthesis only; no PS+PL routing/timing proof"
+}

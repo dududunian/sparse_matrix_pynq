@@ -1,1 +1,0 @@
-{"image_id":"0x4e533201","target_pl_mhz":50.0,"period_ns":20.000,"setup_path_slack_ns":4.186,"hold_path_slack_ns":0.010,"no_clock_pins":0,"unconstrained_internal_endpoints":0,"fully_routed":true,"routing_errors":false,"board_tested":false}

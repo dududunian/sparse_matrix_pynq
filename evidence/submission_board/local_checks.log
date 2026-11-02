@@ -1,0 +1,16 @@
+COMMAND: python sim/run_host_tests.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 1.036s
+
+OK
+
+COMMAND: python build/build.py --check-only
+TESTED_RTL_CONTENT_HASHES_PASS
+
+COMMAND: python -m unittest discover -s skill/tests
+...............
+----------------------------------------------------------------------
+Ran 15 tests in 0.099s
+
+OK

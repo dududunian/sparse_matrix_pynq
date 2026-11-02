@@ -1,5 +1,0 @@
-BUFFER=design_1_i/accel/inst/u_core/u_a_loader/pending_mask[63]_i_1_bufg_place LOADS=1088 PIN_TYPES=CE 1088
-BUFFER=design_1_i/accel/inst/u_core/u_b_loader/FSM_onehot_state_reg[12]_bufg_place LOADS=2112 PIN_TYPES=CE 2112
-BUFFER=design_1_i/accel/inst/u_core/u_b_loader/FSM_onehot_state_reg[18]_bufg_place LOADS=2113 PIN_TYPES=CE 2113
-BUFFER=design_1_i/reset/U0/ACTIVE_LOW_PR_OUT_DFF[0].FDRE_PER_N_bufg_place LOADS=1216 PIN_TYPES=R 270 S 5 CLR 928 PRE 13
-UNEXPECTED_CLOCK_SINKS=0

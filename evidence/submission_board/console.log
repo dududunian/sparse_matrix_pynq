@@ -1,0 +1,18 @@
+ENVIRONMENT aarch64 4.0.0 8.1.8
+
+FPGA_LOADED 49999500
+
+DEMO_BOARD_CHECK {"mode": "spmm", "size": 32, "preset": "random", "passed": true, "tiles": 1, "mismatches": 0, "pl_time_ms": 0.09530095300953009, "total_seconds": 0.6288324600000124}
+
+DEMO_BOARD_CHECK {"mode": "add", "size": 32, "preset": "random", "passed": true, "tiles": 1, "mismatches": 0, "pl_time_ms": 0.08622086220862209, "total_seconds": 0.6094421999998758}
+
+DEMO_BOARD_CHECK {"mode": "sub", "size": 32, "preset": "random", "passed": true, "tiles": 1, "mismatches": 0, "pl_time_ms": 0.08622086220862209, "total_seconds": 0.6100681199998235}
+
+DEMO_BOARD_CHECK {"mode": "spmm", "size": 128, "preset": "identity", "passed": true, "tiles": 4, "mismatches": 0, "pl_time_ms": 0.4799447994479945, "total_seconds": 2.6201916099998925}
+
+DEMO_BOARD_CHECK {"mode": "sub", "size": 64, "preset": "same", "passed": true, "tiles": 1, "mismatches": 0, "pl_time_ms": 0.09050090500905009, "total_seconds": 0.6632248799999161}
+
+DEMO_BOARD_CHECK {"mode": "spmm", "size": 32, "preset": "zero", "passed": true, "tiles": 1, "mismatches": 0, "pl_time_ms": 0.08710087100871008, "total_seconds": 0.6069584499998655}
+
+DEMO_BOARD_ACCEPTANCE_PASS
+
