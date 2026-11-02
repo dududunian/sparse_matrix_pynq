@@ -1,0 +1,10 @@
+{
+  "machine": "aarch64",
+  "system": "Linux",
+  "python": "3.12.3",
+  "board_model": "ZynqMP ZCU104 RevA",
+  "pynq_version": "4.0.0",
+  "overlay_mmio_importable": true,
+  "clocks_api_importable": true,
+  "python_environment_ready": true
+}

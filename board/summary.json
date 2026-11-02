@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "board_tested": true,
+  "image_id": "0x4e533201",
+  "original_cases": 28,
+  "boundary_cases": 5,
+  "smoke_tasks": 3,
+  "original_hardware_tasks": 102,
+  "boundary_hardware_tasks": 194,
+  "hardware_tasks": 299,
+  "checked_physical_values": 1224704,
+  "original_and_boundary_logical_values": 1165585,
+  "mismatches": 0,
+  "environment": {
+    "machine": "aarch64",
+    "system": "Linux",
+    "python": "3.12.3",
+    "board_model": "ZynqMP ZCU104 RevA",
+    "pynq_version": "4.0.0",
+    "overlay_mmio_importable": true,
+    "clocks_api_importable": true,
+    "python_environment_ready": true
+  },
+  "remote": {
+    "url": "http://192.168.2.99:9090",
+    "folder": "nanshan_full_acceptance_20261025_225823"
+  }
+}
